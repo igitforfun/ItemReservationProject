@@ -9,7 +9,7 @@ This project allows users to book/reserve any item of their choice (e.g. Compute
 1. Clone this project, go to "ReservationProject" and open up the Reservation.xlsm. For the first time, you will be prompted if you want to enable the inbuilt macros, please click YES.  
 2. You will see a reservation table like this :
 ![ReservationTable](./Images/ReservationTable.png)  
-In Cell A-5, that is the date of the day, it will be refreshed automatically everyday. You will be able to configure "slots" according to the type of item you want to reserve. You can also change time duration of the table accordingly by using excel Data Validation feature. Refer to the section [Data Validation](#Data-Validation
+In Cell A-5, that is the date of the day, it will be refreshed automatically everyday. You will be able to configure "slots" according to the type of item you want to reserve. You can also change time duration of the table accordingly by using excel Data Validation feature. Refer to the section [Data Validation](#Data-Validation)
 Add as many rows and columns as you like. If you want, you may lock the cell to prevent unauthorized access. Refer [Data Validation](#Data-Validation)  
 3. Use the button "Reserve" and "ClearSelected" to add your name into the selected cells that you are trying to reserve/delete. You may select multiple cells at once.  
 
